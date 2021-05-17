@@ -1,3 +1,16 @@
 
 #https://docs.github.com/en/actions/learn-github-actions/sharing-workflows-with-your-organization
 #https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-actions
+#https://docs.github.com/en/actions/learn-github-actions/sharing-workflows-with-your-organization
+
+{
+    "name": "sitemappingHtml-ci",
+    "description": "CI workflow template.",
+    "iconName": "sitemappingHtml-ci-icon",
+    "categories": [
+        "Html"
+    ],
+    "filePatterns": [
+               ".*\\.html$"
+    ]
+}

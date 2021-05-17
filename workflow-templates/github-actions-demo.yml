@@ -1,4 +1,4 @@
-#https://docs.github.com/en/actions/quickstart
+#https://docs.github.com/en/actions/quickstart by PR
 name: GitHub Actions Demo
 on: [push]
 jobs:
